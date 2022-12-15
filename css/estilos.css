@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.padre-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e3f3f7;
+    height: 100px;
+}
+
+.navegacion-principal ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+.navegacion-principal ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.navegacion-principal ul li a{
+    color: #e3f3f7;
+    text-decoration: none;
+    background-color: #000823;
+    font-size: 16px;
+    padding: 8px 14px;
+    border-radius: 4px;
+    border: 2px solid #000823;
+}
+
+.navegacion-principal ul li a:hover{
+    color: #000823;
+    background-color: #e3f3f7;
+}
+
+.hijo-2{
+    width: 800px;
+    text-align: center;
+}
+
+.hijo-3 {
+    width: 200px;
+    text-align: center;
+}
+
+
+.padre-index{
+    display: flex;    
+    height: 670px;
+}
+
+.mujer-index{
+    width: 400px;
+    background-image: url(../img/mujer.jpg);
+    background-size: 400px;
+}
+
+.hombre-index{
+    width: 400px;
+    background-image: url(../img/hombre.jpg);
+    background-size: 400px;
+}
+
+.niño-index{
+    width: 400px;
+    background-image: url(../img/niño.jpg);
+    background-size: 400px;
+}
+
+.popular-index{    
+    width: 400px;
+    background-image: url(../img/popular.jpg);
+    background-size: 400px;
+}
