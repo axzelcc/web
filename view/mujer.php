@@ -10,6 +10,9 @@
     <?php 
         include_once('Lib/2_header.php');
     ?>
+
+    sebas chupame la pinga
+
     </header>
     <section id="cuerpo">
         <div class="padre-index">
