@@ -11,7 +11,7 @@
         include_once('Lib/2_header.php');
     ?>
 
-    sebas chupame la pinga
+    tu prima en 4
 
     </header>
     <section id="cuerpo">
